@@ -1,7 +1,7 @@
 # Personality Predictions: Extrovert vs Introvert🎭
 
 ## Overview📊
-This project uses a dataset from kaggle about the differences in habits between extrovert and introvert personalities. You can see it here. The dataset contains 2,900 rows, also 8 columns as follows:
+This project uses a dataset from kaggle about the differences in habits between extrovert and introvert personalities. You can see it [here](https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data/data). The dataset contains 2,900 rows, also 8 columns as follows:
     - Time_spent_Alone: Hours spent alone daily (0–11).
     - Stage_fear: Presence of stage fright (Yes/No).
     - Social_event_attendance: Frequency of social events (0–10).
