@@ -14,7 +14,7 @@ This project uses a dataset from kaggle about the differences in habits between 
 
 ## Steps🔍
 1. Import the libraries
-2. Feature engineering
+2. Preprocessing
 3. Train for the best model and paramaters
 4. Make a prediction
 5. Visualization
